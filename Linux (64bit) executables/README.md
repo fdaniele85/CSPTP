@@ -1,8 +1,8 @@
 # Exact algorithms
-bb_bf: Brach & Bound best First
+bb_bf: Brach & Bound best First  
   Usage: bb_bf instance [incumbentValue]
 
-bb_df: Brach & Bound depth First
+bb_df: Brach & Bound depth First  
   Usage: bb_df instance [incumbentValue]
 
 ##### Usage
@@ -12,7 +12,7 @@ Parameters:
 
 # Meta-heuristic
 
-grasp: GRASP meta-heuristic
+grasp: GRASP meta-heuristic  
   Usage: grasp instance iterations seed [maxTime [target]]
 
 ##### Usage
