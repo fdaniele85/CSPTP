@@ -15,7 +15,7 @@ volume = "74",
 pages = "64 - 77",
 year = "2016",
 issn = "0305-0548",
-doi = "https://doi.org/10.1016/j.cor.2016.04.002",
+doi = "10.1016/j.cor.2016.04.002",
 author = "Daniele Ferone and Paola Festa and Francesca Guerriero and Demetrio Laganà",
 keywords = "Shortest path problems, Network flow problems, Combinatorial optimization, Branch & Bound, GRASP"
 }
